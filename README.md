@@ -7,7 +7,7 @@ Android App Developer
 I'm an Android app developer with 5 years of experience in mobile application development. I'm passionate about creating high-quality, user-friendly, and performant applications that meet user requirements and exceed industry standards.
 
 * 🌍  I'm based in Mumbai, India.
-* 🖥️  See my portfolio at [link here.](http://www.myselfvishal.dev)
+* 🖥️  See my portfolio at [link here.](https://myselfvishal.dev/)
 * ✉️  You can contact me at [vishalnaikawadi@gmail.com](mailto:vishalnaikawadi@gmail.com)
 * 🧠  I'm learning Flutter Framework, Jetpack Compose
 * ⚡  I'm secretly Batman... but poor.
